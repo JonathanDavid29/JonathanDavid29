@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Jonathan 👋</h1>
 </div>
 
-<img src="https://imgur.com/dEQtQgo.png">
+<img src="https://imgur.com/dEQtQgo.png" width = "800" >
 
 ## About Me
 
@@ -11,7 +11,34 @@
 - 🧑‍🏫 Creator of Joib Programming 
 <br>
 
-## Proyectos *bombitas*
+## **Cool** Proyects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Cyclistic-Analysis-EDA-</h3>
+<div align="center">
+<a href=""https://github.com/JonathanDavid29/Cyclistic-Analysis-EDA-.git" target="_blank"><img src="https://brlsports.com/cdn/shop/articles/237422980_1200x.jpg?v=1666619288" width="400"></a>
+<p>
+<a href="https://github.com/JonathanDavid29/Cyclistic-Analysis-EDA-.git" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p align = 'Justify'>This analysis provides insights into a dataset related to a transportation service, more specifically bike service, and covers various aspects, including gender, month, days, hours, minutes, and stations. There's a summary in which you will find a summary about the main conclusions</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Comming soon...</h3>
+<div align="center">                                       
+<a href=""https://github.com/JonathanDavid29/Cyclistic-Analysis-EDA-.git__" target="_blank"><img src="https://keyan.io/WIP.jpg" width="300"></a>
+<br>
+<p align = 'Justify'>...</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+                                                                                    
 
 ### ⚙️ &nbsp;GitHub Analytics
 
