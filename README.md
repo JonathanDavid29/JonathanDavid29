@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+  <h1 align="center">Hi, I'm Jonathan 👋</h1>
+</div>
 
-<!--
-**JonathanDavid29/JonathanDavid29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://imgur.com/dEQtQgo.png">
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐ Github Star ⭐ 
+- 🥷 Systems engineer by profession, data analyst by vocation. 🧑‍💻
+- 🧑‍🏫 Creator of Joib Programming 
+<br>
+
+## Proyectos *bombitas*
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/JonathanDavid29">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JonathanDavid29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JonathanDavid29&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
