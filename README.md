@@ -29,12 +29,31 @@
 
 <td width="50%">
                <br>
+<h3 align="center">8 Week SQL Challenge</h3>
+<div align="center">                                       
+<a href=""https://github.com/JonathanDavid29/8-Week-SQL-Challenge.git target="_blank"><img src="https://8weeksqlchallenge.com/images/data-with-danny-logo.png" width="200"></a>
+<br>
+<p>
+<a href="https://github.com/JonathanDavid29/8-Week-SQL-Challenge.git" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</p>
+<p align = 'Justify'>This repository serves to show the solution of each of the 8 case studies, in which we will cover from basic to advanced aspects. All this from the <a href="https://8weeksqlchallenge.com" target="_blank"> 8 weeks sql challenge</a> website.</p>
+</div>   
+
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<td width="50%">
+               <br>
 <h3 align="center">Comming soon...</h3>
 <div align="center">                                       
 <a href=""https://github.com/JonathanDavid29/Cyclistic-Analysis-EDA-.git__" target="_blank"><img src="https://keyan.io/WIP.jpg" width="300"></a>
 <br>
 <p align = 'Justify'>...</p>
-</div>                                                             
+</div>   
+
 </table>                                                                                 
 </div>
 <br>
